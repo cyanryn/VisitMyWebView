@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="view_browser">浏览该网页</string>
+</resources>
